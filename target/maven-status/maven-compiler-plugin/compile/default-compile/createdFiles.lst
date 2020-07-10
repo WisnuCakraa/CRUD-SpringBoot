@@ -1,1 +1,8 @@
 com\enigma\employee\Application.class
+com\enigma\employee\dto\EmployeeDto.class
+com\enigma\employee\entity\EmployeeEntity.class
+com\enigma\employee\entity\PositionEntity.class
+com\enigma\employee\dao\PositionDAO.class
+com\enigma\employee\services\EmployeeService.class
+com\enigma\employee\dao\EmployeeDAO.class
+com\enigma\employee\services\PositionService.class
